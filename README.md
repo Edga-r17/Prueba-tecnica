@@ -67,3 +67,9 @@ El proyecto está construido sobre el siguiente stack tecnológico:
 
 El servidor de desarrollo estará disponible en [http://localhost:8006/](http://localhost:8006/).
 
+
+Archivo numeros_ordenados.py tiene el ejercicio de ordenar los numeros
+
+Archivo cantidad_palabras.py tiene el ejercicio MySQL
+
+
